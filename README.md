@@ -1,4 +1,6 @@
 # textwrap
+[![Go Reference](https://pkg.go.dev/badge/github.com/sha65536/textwrap.svg)](https://pkg.go.dev/github.com/sha65536/textwrap)
+
 `textwrap` is a package made to simplify formatting text in a size limited space.
 
 ## Usage
